@@ -48,6 +48,11 @@ header h1 {
     font-weight: unset;
 }
 
+#title {
+    text-decoration: none;
+    color: black;
+}
+
 header p {
     margin-top: -1rem;
     width: 100%;
