@@ -15,8 +15,8 @@ This is a solution to the [Build a Survey Form](https://www.freecodecamp.org/lea
 
 ### Screenshot
 
-![](https://raw.githubusercontent.com/Mohamed-Waled/Survey-Form/main/Images/Screenshot%202022-03-11%20at%2010-05-15%20Survey%20Form.png)
-![](https://raw.githubusercontent.com/Mohamed-Waled/Survey-Form/main/Images/Screenshot%202022-03-11%20at%2010-06-44%20Survey%20Form.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/Survey-Form/main/Images/Screenshot%202022-03-11%20at%2010-27-44%20Survey%20Form.png)
+![](https://raw.githubusercontent.com/Mohamed-Waled/Survey-Form/main/Images/Screenshot%202022-03-11%20at%2010-27-56%20Survey%20Form.png)
 
 ### Links
 
