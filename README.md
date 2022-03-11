@@ -1,17 +1,37 @@
-# Survey-Form
-A Survay Form as a Project For FCC Responsive Web Design Courses
+# FreeCodeCamp - Responsive Web Design Projects - Build a Survey Form
 
-## The languages Used
-HTML
-Css
-Useing Visual Studio Code
+This is a solution to the [Build a Survey Form](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form) 
 
-## Project Files
-HTML File index.HTML Contains 102 Lines
-CSS File Contains styles.css Contains 107 Lines
-README.md File Contains Information About The Project Contains 14 Lines
+## Table of contents
 
-## What Survay Form Contains :
-An inputs to fill
-some radio and check boxes
-text area
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### Screenshot
+
+![]()
+![]()
+
+### Links
+
+- Solution URL: [Solution URL here](https://codepen.io/mohamed-waled-the-styleful/pen/MWoZWvG)
+- Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Survey-Form/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Visual Studio Code
+
+## Author
+
+- Linkedin - [@mohamed-waled](https://www.linkedin.com/in/mohamed-waled-82a51a1bb/)
