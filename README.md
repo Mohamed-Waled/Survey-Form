@@ -20,7 +20,6 @@ This is a solution to the [Build a Survey Form](https://www.freecodecamp.org/lea
 
 ### Links
 
-- Solution URL: [Solution URL here](https://codepen.io/mohamed-waled-the-styleful/pen/MWoZWvG)
 - Live Site URL: [Live site URL here](https://mohamed-waled.github.io/Survey-Form/)
 
 ## My process
